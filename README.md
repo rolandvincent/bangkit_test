@@ -1,1 +1,1 @@
-# Ini adalah komentar pertama saya
+# Ini adalah komentar pertama ku
